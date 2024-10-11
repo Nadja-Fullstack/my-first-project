@@ -1,4 +1,0 @@
-[main 0d95849] Test
- 2 files changed, 0 insertions(+), 0 deletions(-)
- delete mode 100644 Homework/file1.txt
- delete mode 100644 Homework/file3.css
